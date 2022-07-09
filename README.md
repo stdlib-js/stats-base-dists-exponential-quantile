@@ -72,7 +72,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.quantile;
+})();
 })();
 </script>
 ```
@@ -148,6 +150,7 @@ y = myquantile( 0.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-exponential-quantile@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var lambda;
 var p;
@@ -161,6 +164,7 @@ for ( i = 0; i < 10; i++ ) {
     console.log( 'p: %d, λ: %d, Q(p;λ): %d', p.toFixed( 4 ), lambda.toFixed( 4 ), y.toFixed( 4 ) );
 }
 
+})();
 })();
 </script>
 </body>
