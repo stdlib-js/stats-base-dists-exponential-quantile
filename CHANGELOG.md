@@ -2,6 +2,65 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-15)
+
+<section class="features">
+
+### Features
+
+-   [`8171728`](https://github.com/stdlib-js/stdlib/commit/81717288b3792ada6bda5f69e9626408eb2de391) - add C implementation for `stats/base/dists/exponential/quantile` [(#4145)](https://github.com/stdlib-js/stdlib/pull/4145)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3590](https://github.com/stdlib-js/stdlib/issues/3590)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8171728`](https://github.com/stdlib-js/stdlib/commit/81717288b3792ada6bda5f69e9626408eb2de391) - **feat:** add C implementation for `stats/base/dists/exponential/quantile` [(#4145)](https://github.com/stdlib-js/stdlib/pull/4145) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+-   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
