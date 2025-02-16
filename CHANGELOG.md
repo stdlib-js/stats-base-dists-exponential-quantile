@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-15)
+## Unreleased (2025-02-16)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3590](https://github.com/stdlib-js/stdlib/issues/3590)
+[#3590](https://github.com/stdlib-js/stdlib/issues/3590), [#5230](https://github.com/stdlib-js/stdlib/issues/5230)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`5186577`](https://github.com/stdlib-js/stdlib/commit/518657703bf95bfa4e0e99e6d453e2e909453f59) - **chore:** fix copy & paste error [(#5247)](https://github.com/stdlib-js/stdlib/pull/5247) _(by Harsh)_
 -   [`8171728`](https://github.com/stdlib-js/stdlib/commit/81717288b3792ada6bda5f69e9626408eb2de391) - **feat:** add C implementation for `stats/base/dists/exponential/quantile` [(#4145)](https://github.com/stdlib-js/stdlib/pull/4145) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
