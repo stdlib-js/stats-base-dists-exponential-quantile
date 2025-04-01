@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`ef5a939`](https://github.com/stdlib-js/stdlib/commit/ef5a9397fb3e87e56d216b24dd316682e613caaf) - **test:** fix missing `opts` argument _(by Athan Reines)_
 -   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`5186577`](https://github.com/stdlib-js/stdlib/commit/518657703bf95bfa4e0e99e6d453e2e909453f59) - **chore:** fix copy & paste error [(#5247)](https://github.com/stdlib-js/stdlib/pull/5247) _(by Harsh)_
