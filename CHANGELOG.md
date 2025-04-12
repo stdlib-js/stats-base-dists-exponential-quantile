@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-01)
+## Unreleased (2025-04-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`55636e4`](https://github.com/stdlib-js/stdlib/commit/55636e401a4c7c504a41ecb511dc6d55206fdc4a) - **docs:** fix closing comment tags _(by Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`ef5a939`](https://github.com/stdlib-js/stdlib/commit/ef5a9397fb3e87e56d216b24dd316682e613caaf) - **test:** fix missing `opts` argument _(by Athan Reines)_
 -   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
