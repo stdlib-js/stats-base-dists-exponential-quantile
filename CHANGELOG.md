@@ -6,12 +6,25 @@
 
 ## Unreleased (2026-10-31)
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5230](https://github.com/stdlib-js/stdlib/issues/5230)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`d213b8d`](https://github.com/stdlib-js/stdlib/commit/d213b8d5ab11a1294b622cae091b90278feb1c87) - **docs:** add missing blank line [(#16399)](https://github.com/stdlib-js/stdlib/pull/16399) _(by harsh-thakkar7)_
 -   [`6ecc151`](https://github.com/stdlib-js/stdlib/commit/6ecc15157c7c72ace6ececc2cb23692be8e62e5d) - **test:** migrate `stats/base/dists/exponential/quantile` to ULP-based assertions [(#14706)](https://github.com/stdlib-js/stdlib/pull/14706) _(by Athan Reines)_
 -   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
@@ -28,7 +41,7 @@
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Mara Averick
@@ -36,6 +49,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Siddhartha Mondal
 -   Vishal Gaikwad
 -   anee3
+-   harsh-thakkar7
 
 </section>
 
